@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 174878c3b73de4c1f92f19bd1517ca90
+timeCreated: 1523703495
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Allhoy_Wheel
+    100002: AllhoyWheel_BrakeDisk_Gpoup
+    100004: ambientLight1
+    100006: Brake_Calliper_Group
+    100008: BrakeCalliper
+    100010: BrakeDisk
+    100012: BrakeDiskCenter
+    100014: CalliperBrakeFluidLine_Bolts
+    100016: directionalLight2
+    100018: directionalLight3
+    100020: directionalLight4
+    100022: Lights
+    100024: MainLight
+    100026: //RootNode
+    100028: Tire
+    100030: WheelBolts
+    100032: WheelCenter_Cap
+    400000: Allhoy_Wheel
+    400002: AllhoyWheel_BrakeDisk_Gpoup
+    400004: ambientLight1
+    400006: Brake_Calliper_Group
+    400008: BrakeCalliper
+    400010: BrakeDisk
+    400012: BrakeDiskCenter
+    400014: CalliperBrakeFluidLine_Bolts
+    400016: directionalLight2
+    400018: directionalLight3
+    400020: directionalLight4
+    400022: Lights
+    400024: MainLight
+    400026: //RootNode
+    400028: Tire
+    400030: WheelBolts
+    400032: WheelCenter_Cap
+    2100000: Wheel_Mat
+    2100002: BrakeDisk_Mat
+    2300000: Allhoy_Wheel
+    2300002: BrakeCalliper
+    2300004: BrakeDisk
+    2300006: BrakeDiskCenter
+    2300008: CalliperBrakeFluidLine_Bolts
+    2300010: Tire
+    2300012: WheelBolts
+    2300014: WheelCenter_Cap
+    3300000: Allhoy_Wheel
+    3300002: BrakeCalliper
+    3300004: BrakeDisk
+    3300006: BrakeDiskCenter
+    3300008: CalliperBrakeFluidLine_Bolts
+    3300010: Tire
+    3300012: WheelBolts
+    3300014: WheelCenter_Cap
+    4300000: Allhoy_Wheel
+    4300002: WheelCenter_Cap
+    4300004: WheelBolts
+    4300006: BrakeDisk
+    4300008: BrakeDiskCenter
+    4300010: Tire
+    4300012: CalliperBrakeFluidLine_Bolts
+    4300014: BrakeCalliper
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: ambientLight1
+    10800002: directionalLight2
+    10800004: directionalLight3
+    10800006: directionalLight4
+    10800008: MainLight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BrakeDisk_Mat
+    second: {fileID: 2100000, guid: a7e11daaabb6c4615bd996ad52f3fdca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Mat
+    second: {fileID: 2100000, guid: 6f5bc88ced1c54006bbdeb5fc3732da0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
